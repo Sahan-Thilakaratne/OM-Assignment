@@ -1,0 +1,13 @@
+# Microsoft Office lock / temporary files
+~$*
+*.tmp
+
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Local env
+.venv/
+venv/
+.env
